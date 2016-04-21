@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MotiusTest</string>
+    <string name="one">String One</string>
+    <string name="two">String Two</string>
+    <string name="three">String Three</string>
+    <string name="welcome">Hey, welcome to the Motius Test App. Please put two input fields below in order
+        to fake a login / registration screen here.\nNothing should happen when clicking the button.</string>
+    <string name="user_hint">User Name</string>
+    <string name="pw_hint">Password Field</string>
+    <string name="login">Login</string>
+    <string name="centered">Centered Text</string>
+</resources>
